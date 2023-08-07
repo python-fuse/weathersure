@@ -21,7 +21,7 @@ To run this app on your local machine, follow these steps:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/WeatherSure.git
+   git clone https://github.com/py-fuse/WeatherSure.git
    ```
 
 2. Navigate to the project directory:
@@ -42,7 +42,7 @@ To run this app on your local machine, follow these steps:
 ## Dependencies
 
 - [http](https://pub.dev/packages/http) - For making HTTP requests.
-- [your_other_dependencies_here]
+
 
 ## API Key
 
@@ -57,8 +57,3 @@ Contributions are welcome! Feel free to2 open issues and submit pull requests.
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 ```
 
-Replace the placeholders with your actual project details, screenshots, dependencies, and other relevant information. Make sure to include instructions on how to run the app, set up the API key, and contribute to the project.
-
-Remember to create a `/screenshots` directory in your repository to store the screenshots and update the image URLs in the README accordingly.
-
-After creating the README file, commit and push it to your GitHub repository. Your project's visitors will have a clear understanding of your app and how to use it.
