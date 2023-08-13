@@ -21,7 +21,7 @@ To run this app on your local machine, follow these steps:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/py-fuse/WeatherSure.git
+   git clone https://github.com/py-fuse/weatherSure
    ```
 
 2. Navigate to the project directory:
