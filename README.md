@@ -12,7 +12,7 @@ WeatherSure is a Flutter app that allows users to check the current weather cond
 
 ## Screenshots
 
-![Screeenshot1](https://github.com/python-fuse/weathersure/blob/main/Screenshot1.png)
+(https://github.com/python-fuse/weathersure/blob/main/Screenshot1.png)
 ![Screenshot 2](https://github.com/python-fuse/weathersure/blob/main/Screenshot2.png)
 
 ## Getting Started
